@@ -72,7 +72,7 @@ body{
     justify-content: space-around;
     height: 79vh;
     width: 45vh;
-    background-image: url(./img/images.jpg);
+    background-image: url(../img/images.jpg);
 }
 
 .elements{
@@ -113,7 +113,7 @@ body{
 }
 
 .container{
-    background-image:url(./img/background.jpg);
+    background-image:url(../img/background.jpg);
     background-size: cover;
     display: flex;
     background-color:darkkhaki;
